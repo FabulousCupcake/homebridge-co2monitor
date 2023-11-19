@@ -17,6 +17,9 @@
     "type": "git",
     "url": "git://github.com/FabulousCupcake/homebridge-co2monitor.git"
   },
+  "scripts": {
+    "publish": "npm publish --access public"
+  },
   "dependencies": {
     "node-co2-monitor": "git+ssh://git@github.com/FabulousCupcake/node-co2-monitor.git"
   }
