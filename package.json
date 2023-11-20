@@ -1,6 +1,6 @@
 {
   "name": "@fbcpck/homebridge-co2monitor",
-  "version": "2023.11.20-1",
+  "version": "2023.11.20-2",
   "description": "Homebridge plugin for TFA Dostmann USB CO2 monitors",
   "license": "BSD-3-Clause",
   "keywords": [
